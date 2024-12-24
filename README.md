@@ -1,6 +1,8 @@
 # Air-Pollution-AQI-Website-Project
 Air Pollution AQI Website Project Code, Document And Video Tutorial 
 
+![Air Pollution](https://github.com/user-attachments/assets/1cf39297-7be1-47c1-b672-36df53d35a1c)
+
 ## Youtube link: https://youtu.be/QGF0D7d53i4?si=tqnun3vMfgbO61i5
 
 ## Abstract:
